@@ -1,0 +1,1 @@
+document.querySelectorAll(".channel-item-wrapper-2gBWB")[4].click()
